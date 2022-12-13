@@ -1,2 +1,2 @@
-# My-Social-Media-LInk
+# My-Social-Media-Link
 Android Studio
